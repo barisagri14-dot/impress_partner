@@ -4,7 +4,7 @@ from turtle import *
 import time
 win=Screen()
 win.setup(1250,650)
-win.title('My Cute Baby')
+win.title('Hazal'ım')
 time.sleep(1)
 win.bgcolor('white')
 time.sleep(1)
